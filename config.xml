@@ -19,7 +19,9 @@
   <plugin name="cordova-plugin-media-capture"/>
         <plugin name="cordova-plugin-network-information"/>
         
-       
+        <plugin name="cordova-plugin-network-information.Connection"/>
+    <plugin name="cordova-plugin-network-information.network"/>
+    
         
   <access origin="*" />
   <allow-intent href="http://*/*" />
